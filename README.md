@@ -6,5 +6,5 @@ execute cycle, no emulation libraries involved.
 
 ## Architecture
 
-Follows the **Von Neumann architecture** — instructions and data share the same
+Follows the Von Neumann architecture instructions and data share the same
 16-cell memory space, accessed sequentially
