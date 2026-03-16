@@ -1,4 +1,4 @@
-# tiny-4bit-cpu-java
+# tiny-4bit-cpu-java (in progress )
 
 Trying to build a CPU from scratch in Java alongside my computer architecture
 course. Simulates a 16-address memory space and the classic fetch → decode → 
